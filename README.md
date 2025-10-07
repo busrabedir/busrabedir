@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Büşra BEDİR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Redux,TypeScript,Nextjs,Trello**
+ 🌱 I’m currently learning **Redux,TypeScript,Nextjs,Trello**
 
-- 👨‍💻 All of my projects are available at [https://github.com/busrabedir](https://github.com/busrabedir)
+ 👨‍💻 All of my projects are available at [https://github.com/busrabedir](https://github.com/busrabedir)
 
-- 💬 Ask me about **React JS**
+  💬 Ask me about **React JS**
 
-- 📫 How to reach me **busrabediir@gmail.com**
+  📫 How to reach me **busrabediir@gmail.com**
 
-- ⚡ Fun fact **I'm teachable and responsible.**
+  ⚡ Fun fact **I'm teachable and responsible.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/busrabediir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busrabediir" height="30" width="40" /></a>
 </p>
