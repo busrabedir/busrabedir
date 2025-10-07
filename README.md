@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Büşra BEDİR</h1>
 
- 🌱 I’m currently learning **Redux,TypeScript,Nextjs,Trello**
+ 🌱 I’m currently learning **Redux,TypeScript,Next.js,Trello**
 
  👨‍💻 All of my projects are available at [https://github.com/busrabedir](https://github.com/busrabedir)
 
